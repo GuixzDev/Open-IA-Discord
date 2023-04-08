@@ -1,7 +1,7 @@
-{
+{ 
   
-    "token": "", // coloque seu token
-   "api": "", // Coloque sua api
-  "org": "" // Coloque sua api de organização 
+"token": "", // TOKEN DO DISCORD
+"api": "", // SUA API
+"org": "" // API DA SUA ORG
   
 }
