@@ -1,8 +1,14 @@
-***CHAT-GPT NO DISCORD***
+***PT - BR***
 ```
 ➣ ➀ Criei esse bot em 30 min n reclama kkkkk
 ➢ ➁ Lembrando que e um bot bem basico
 ➣ ➂ Qulquer duvida meu discord Guixz#6502
+```
+***EN***
+```
+➣ ➀ I created this bot in 30 min, don't complain kkkkk
+➢ ➁ Remembering that it is a very basic bot
+➣ ➂ Any doubt my discord Guixz#6502
 ```
 
 ***TUTORIAL***
