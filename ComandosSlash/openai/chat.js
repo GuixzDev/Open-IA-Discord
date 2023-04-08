@@ -3,8 +3,8 @@ const { Configuration, OpenAIApi } = require('openai');
 const config = require("../../config.json")
 
 module.exports = {
-    name: 'chat', // Nome do comando aqui
-    description: 'Pergunte algo a openai', // Coloque a descrição do comando aqui
+    name: 'chat',
+    description: 'Pergunte algo a openai',
 
     options: [
         {
@@ -36,7 +36,6 @@ module.exports = {
 
     let responseMessage = '> ' + prompt + response.data.choices[0].text;
 
-    /* Se a resposta tiver mais de 2.000 caracteres, ela será enviada como um arquivo. */
     if (responseMessage.length >= 2000) {
       const attachment = new AttachmentBuilder(Buffer.from(responseMessage, 'utf-8'), { name: 'response.txt' });
       await interaction.editReply({ files: [attachment] })
