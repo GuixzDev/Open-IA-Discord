@@ -1,12 +1,12 @@
 ***PT - BR***
 ```
-➣ ➀ Criei esse bot em 30 min n reclama kkkkk
+➣ ➀ Criei esse bot em 30 min caso ache um erro me contacte 
 ➢ ➁ Lembrando que e um bot bem basico
 ➣ ➂ Qulquer duvida meu discord Guixz#6502
 ```
 ***EN***
 ```
-➣ ➀ I created this bot in 30 min, don't complain kkkkk
+➣ ➀ I created this bot in 30 min if you find an error contact me
 ➢ ➁ Remembering that it is a very basic bot
 ➣ ➂ Any doubt my discord Guixz#6502
 ```
